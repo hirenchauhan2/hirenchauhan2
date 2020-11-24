@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang, Python, Svelte, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hirenchauhan2/](https://github.com/hirenchauhan2/)
+- 👨‍💻 All of my projects are available at here at Github ✌!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
