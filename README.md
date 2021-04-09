@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiren Chauhan</h1>
 <h3 align="center">A passionate full-stack developer from India!</h3>
 
-- 🌱 I’m currently learning **_Golang, Svelte, TailwindCSS_**
+- 🌱 I’m currently learning **_Golang, Svelte, TailwindCSS, NestJS_**
 - 👨‍💻 All of my OSS projects are available at here at Github ✌!
 
 <p align="left">
