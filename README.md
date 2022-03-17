@@ -4,7 +4,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/hpc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hirenchauhan2" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h3 aligh="left">Currently learning</h3>
